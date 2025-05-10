@@ -8,7 +8,7 @@ import zlib
 
 file_names = ['CARD_Desc', 'CARD_Indx', 'CARD_Name']
 
-m_iCryptoKey = 0xda
+m_iCryptoKey = 0x32D
 
 
 def Decrypt(file_name):
